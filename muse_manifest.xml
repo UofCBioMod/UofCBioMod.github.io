@@ -1,0 +1,274 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://uofcbiomod.github.io" resolutions="1x" timestamp="1540097601755">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="team.css" crc="194035752" ref="team"/>
+    <file name="video.css" crc="157830324" ref="video"/>
+    <file name="fluorimeter.css" crc="135586848" ref="fluorimeter"/>
+    <file name="project.css" crc="3893064955" ref="project"/>
+    <file name="home.css" crc="3813717105" ref="home"/>
+    <file name="sponsors.css" crc="286061655" ref="sponsors"/>
+    <file name="synthesis.css" crc="280011397" ref="synthesis"/>
+    <file name="lab-book.css" crc="4219122722" ref="lab-book"/>
+    <file name="aptamers.css" crc="170232977" ref="aptamers"/>
+    <file name="fret.css" crc="204829566" ref="fret"/>
+    <file name="index.css" crc="4263133113" ref="index"/>
+    <file name="nomq_index.css" crc="372337430" ref="index"/>
+    <file name="quantum_confinement.css" crc="4155275625" ref="quantum_confinement"/>
+  </folder>
+  <folder name="assets">
+    <file name="-mr--rollover-transitioner-pro.mulib" crc="3758756361" seo="true" mt="1532549656000"/>
+    <file name="mouse_cursors_1.0.0.zxp" crc="154874823" seo="true" mt="1532644188000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:index:lab-book:team:project:video:sponsors:quantum_confinement:synthesis:fret:aptamers:fluorimeter"/>
+    <file name="museutils.js" crc="3803043152" ref="home:index:lab-book:team:project:video:sponsors:quantum_confinement:synthesis:fret:aptamers:fluorimeter"/>
+    <file name="whatinput.js" crc="86476730" ref="home:index:lab-book:team:project:video:sponsors:quantum_confinement:synthesis:fret:aptamers:fluorimeter"/>
+    <file name="museconfig.js" crc="380897831" ref="home:index:lab-book:team:project:video:sponsors:quantum_confinement:synthesis:fret:aptamers:fluorimeter"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="home:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="home:team"/>
+    <file name="webpro.js" crc="242022427" ref="home:team"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="home:team"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="home:team"/>
+    <file name="touchswipe.js" crc="4066113679" ref="home:team"/>
+    <file name="require.js" crc="4157109226" ref="home:index:lab-book:team:project:video:sponsors:quantum_confinement:synthesis:fret:aptamers:fluorimeter"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="moose-flannel3.gif" crc="3963280064" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u229-4.png" crc="58949623" ref="home"/>
+    <file name="blank.gif" crc="4208392903" ref="home:index:lab-book:team:project:video:sponsors"/>
+    <file name="u3837.png" crc="413027739" ref="home"/>
+    <file name="u3837-a.png" crc="413027739" ref="home"/>
+    <file name="fingerprint-png-image.png" crc="4034416368" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="arme2.svg" crc="4154159389" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="arme2_poster_.png" crc="207117261" ref="home"/>
+    <file name="u1256_states.png" crc="3971420459" ref="home"/>
+    <file name="u1256_states-r.png" crc="4154905620" ref="home"/>
+    <file name="u1244_states.png" crc="4075565657" ref="home"/>
+    <file name="u1244_states-r.png" crc="508669371" ref="home"/>
+    <file name="u1250_states.png" crc="3831658674" ref="home"/>
+    <file name="u1250_states-r.png" crc="4135063854" ref="home"/>
+    <file name="u1253_states.png" crc="4079742133" ref="home"/>
+    <file name="u1253_states-r.png" crc="4246577210" ref="home"/>
+    <file name="u1402_states.png" crc="253670418" ref="home"/>
+    <file name="u1402_states-r.png" crc="346129845" ref="home"/>
+    <file name="moose-1.gif" crc="3964447213" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u626_states.png" crc="3979985276" ref="lab-book"/>
+    <file name="u626_states-r.png" crc="3847426480" ref="lab-book"/>
+    <file name="u628_states.png" crc="51050014" ref="lab-book"/>
+    <file name="u628_states-r.png" crc="290713010" ref="lab-book"/>
+    <file name="u630_states.png" crc="4129684758" ref="lab-book"/>
+    <file name="u630_states-r.png" crc="511553942" ref="lab-book"/>
+    <file name="u1481_states.png" crc="146554139" ref="lab-book"/>
+    <file name="u1481_states-r.png" crc="4267882290" ref="lab-book"/>
+    <file name="u633-4.png" crc="4199285273" ref="lab-book"/>
+    <file name="u3834-4.png" crc="4265695278" ref="lab-book"/>
+    <file name="u631_states.png" crc="52045159" ref="lab-book"/>
+    <file name="u631_states-r.png" crc="3948105940" ref="lab-book"/>
+    <file name="u3141-96.png" crc="3905525597" ref="lab-book"/>
+    <file name="u660_states.png" crc="52045159" ref="team"/>
+    <file name="u660_states-r.png" crc="3948105940" ref="team"/>
+    <file name="u666_states.png" crc="70548602" ref="team"/>
+    <file name="u666_states-r.png" crc="172363998" ref="team"/>
+    <file name="u662_states.png" crc="51050014" ref="team"/>
+    <file name="u662_states-r.png" crc="290713010" ref="team"/>
+    <file name="u664_states.png" crc="4129684758" ref="team"/>
+    <file name="u664_states-r.png" crc="511553942" ref="team"/>
+    <file name="u659-4.png" crc="68138720" ref="team"/>
+    <file name="u1475_states.png" crc="146554139" ref="team"/>
+    <file name="u1475_states-r.png" crc="4267882290" ref="team"/>
+    <file name="post it 1.png" crc="3792897406" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="kat.jpg" crc="3790678481" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u3008-14.png" crc="279983079" ref="team"/>
+    <file name="connor-crop-u2982.jpg" crc="4105499141" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u2992-17.png" crc="4130471121" ref="team"/>
+    <file name="brenan-crop-u2970.jpg" crc="4074753429" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u2995-17.png" crc="8330443" ref="team"/>
+    <file name="andriy-crop-u3025.jpg" crc="78769944" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u3811-14.png" crc="399119573" ref="team"/>
+    <file name="pasted image 2048x1890.jpg" crc="3906644103" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u3814-13.png" crc="3821187062" ref="team"/>
+    <file name="john pic-crop-u3062.jpg" crc="3949419568" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u3075-14.png" crc="206509694" ref="team"/>
+    <file name="vlad-crop-u3014.jpg" crc="35038639" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u3011-15.png" crc="116816539" ref="team"/>
+    <file name="39760503_273543443246505_1301631448695963648_n-crop-u3046.jpg" crc="4262619263" seo="true" ref="team">
+      <caption webpage="team" alt=""/>
+    </file>
+    <file name="u3059-15.png" crc="3854585707" ref="team"/>
+    <file name="u2907.png" crc="3971761087" ref="team"/>
+    <file name="u2907-r.png" crc="310521099" ref="team"/>
+    <file name="u2907-a.png" crc="5416139" ref="team"/>
+    <file name="u2910.png" crc="122749210" ref="team"/>
+    <file name="u2910-r.png" crc="4114927620" ref="team"/>
+    <file name="u2910-a.png" crc="3793603384" ref="team"/>
+    <file name="u2913.png" crc="402443708" ref="team"/>
+    <file name="u2913-r.png" crc="199033176" ref="team"/>
+    <file name="u2913-a.png" crc="4208852386" ref="team"/>
+    <file name="u2916.png" crc="3973580854" ref="team"/>
+    <file name="u2916-r.png" crc="4120062443" ref="team"/>
+    <file name="u2916-a.png" crc="299009449" ref="team"/>
+    <file name="u2919.png" crc="3882658441" ref="team"/>
+    <file name="u2919-r.png" crc="132873102" ref="team"/>
+    <file name="u2919-a.png" crc="4095875398" ref="team"/>
+    <file name="u2922.png" crc="4196879985" ref="team"/>
+    <file name="u2922-r.png" crc="495369574" ref="team"/>
+    <file name="u2922-a.png" crc="465576801" ref="team"/>
+    <file name="u2925.png" crc="4285341005" ref="team"/>
+    <file name="u2925-r.png" crc="4071692667" ref="team"/>
+    <file name="u2925-a.png" crc="337550440" ref="team"/>
+    <file name="u2928.png" crc="131790693" ref="team"/>
+    <file name="u2928-r.png" crc="441602804" ref="team"/>
+    <file name="u2928-a.png" crc="496336068" ref="team"/>
+    <file name="u3840-4.png" crc="4265695278" ref="team"/>
+    <file name="u709_states.png" crc="3979985276" ref="project"/>
+    <file name="u709_states-r.png" crc="3847426480" ref="project"/>
+    <file name="u703_states.png" crc="215198280" ref="project"/>
+    <file name="u703_states-r.png" crc="336010794" ref="project"/>
+    <file name="u705_states.png" crc="4129684758" ref="project"/>
+    <file name="u705_states-r.png" crc="511553942" ref="project"/>
+    <file name="u707-4.png" crc="3829862272" ref="project"/>
+    <file name="u3277-4.png" crc="4265695278" ref="project"/>
+    <file name="u4081_states.png" crc="146554139" ref="project"/>
+    <file name="u4081_states-r.png" crc="4267882290" ref="project"/>
+    <file name="u710_states.png" crc="52045159" ref="project"/>
+    <file name="u710_states-r.png" crc="3948105940" ref="project"/>
+    <file name="u3156-138.png" crc="3997881128" ref="project"/>
+    <file name="fingerprint-2108872_1280.png" crc="16128893" seo="true" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="fingerprint-456483__480.jpg" crc="123163302" seo="true" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="qwerqwerewrsdsd.jpg" crc="3909677251" seo="true" ref="project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="u732_states.png" crc="52045159" ref="video"/>
+    <file name="u732_states-r.png" crc="3948105940" ref="video"/>
+    <file name="u740_states.png" crc="3979985276" ref="video"/>
+    <file name="u740_states-r.png" crc="3847426480" ref="video"/>
+    <file name="u738_states.png" crc="51050014" ref="video"/>
+    <file name="u738_states-r.png" crc="290713010" ref="video"/>
+    <file name="u736_states.png" crc="456085090" ref="video"/>
+    <file name="u736_states-r.png" crc="407688533" ref="video"/>
+    <file name="u734-4.png" crc="4191098682" ref="video"/>
+    <file name="u1463_states.png" crc="146554139" ref="video"/>
+    <file name="u1463_states-r.png" crc="4267882290" ref="video"/>
+    <file name="u1439_states.png" crc="52045159" ref="sponsors"/>
+    <file name="u1439_states-r.png" crc="3948105940" ref="sponsors"/>
+    <file name="post it 1209x191.png" crc="3792897406" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="nano.jpg" crc="4081120391" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="posit 3.png" crc="3835470622" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="pasted image 422x119.jpg" crc="4089055163" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="dxfxdfcxcf.jpg" crc="7031210" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="posit 4392x267.png" crc="235287841" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="postit 2.png" crc="249975348" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="u1434_states.png" crc="3979985276" ref="sponsors"/>
+    <file name="u1434_states-r.png" crc="3847426480" ref="sponsors"/>
+    <file name="u1436_states.png" crc="51050014" ref="sponsors"/>
+    <file name="u1436_states-r.png" crc="290713010" ref="sponsors"/>
+    <file name="u1441_states.png" crc="456085090" ref="sponsors"/>
+    <file name="u1441_states-r.png" crc="407688533" ref="sponsors"/>
+    <file name="u1438-4.png" crc="3943780012" ref="sponsors"/>
+    <file name="u1457_states.png" crc="371850071" ref="sponsors"/>
+    <file name="u1457_states-r.png" crc="3835478492" ref="sponsors"/>
+    <file name="2018 logos black2.jpg" crc="3885583865" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="uc-vert-rgb.jpg" crc="47064704" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="uc-science-rgb.jpg" crc="3886697471" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="pasted image 1200x822-crop-u2959.jpg" crc="520039333" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="posit 4261x178.png" crc="433492563" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="pasted image 1326x581.jpg" crc="201558953" seo="true" ref="sponsors">
+      <caption webpage="sponsors" alt=""/>
+    </file>
+    <file name="u3843-4.png" crc="4265695278" ref="sponsors"/>
+    <file name="u3406-63.png" crc="4128107538" ref="quantum_confinement"/>
+    <file name="u3498-48.png" crc="68352088" ref="synthesis"/>
+    <file name="u3635-69.png" crc="3926219037" ref="fret"/>
+    <file name="fret 1.jpg" crc="4278419253" seo="true" ref="fret">
+      <caption webpage="fret" alt=""/>
+    </file>
+    <file name="fret 2.jpg" crc="71742385" seo="true" ref="fret">
+      <caption webpage="fret" alt=""/>
+    </file>
+    <file name="u3736-35.png" crc="383476885" ref="aptamers"/>
+    <file name="u3915-22.png" crc="3852430747" ref="fluorimeter"/>
+    <file name="sertgsdfg.png" crc="203079731" seo="true" ref="fluorimeter">
+      <caption webpage="fluorimeter" alt=""/>
+    </file>
+  </folder>
+  <file name="home.html" crc="3938365527" seo="true" mt="1540097592606" redirect="true"/>
+  <file name="index.html" crc="4144765456" seo="true" mt="1540097382412" redirect="true"/>
+  <file name="lab-book.html" crc="4112462045" seo="true" mt="1540097593527" redirect="true"/>
+  <file name="team.html" crc="500069189" seo="true" mt="1540097596249" redirect="true"/>
+  <file name="project.html" crc="88434091" seo="true" mt="1540097596731" redirect="true"/>
+  <file name="video.html" crc="234569546" seo="true" mt="1540097598542" redirect="true"/>
+  <file name="sponsors.html" crc="4293154779" seo="true" mt="1540097599162" redirect="true"/>
+  <file name="quantum_confinement.html" crc="4286805164" seo="true" mt="1540074427937" redirect="true"/>
+  <file name="synthesis.html" crc="87041505" seo="true" mt="1540089422010" redirect="true"/>
+  <file name="fret.html" crc="4068966272" seo="true" mt="1540092777225" redirect="true"/>
+  <file name="aptamers.html" crc="4083142260" seo="true" mt="1540079382405" redirect="true"/>
+  <file name="fluorimeter.html" crc="490496018" seo="true" mt="1540087980768" redirect="true"/>
+</manifest>
